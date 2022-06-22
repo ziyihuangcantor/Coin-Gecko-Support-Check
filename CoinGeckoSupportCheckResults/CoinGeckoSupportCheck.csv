@@ -1,0 +1,76 @@
+,Coin(Etoro) Symbol,Coin(Etoro) Name,Has Gecko Support,Gecko Coin Reference (Symbol : [Name])
+0,BTC,Bitcoin,Yes,{'BTC': ['Bitcoin']}
+1,ETH,Ethereum,Yes,"{'ETH': ['Ethereum', 'Ethereum (Wormhole)']}"
+2,BCH,Bitcoin Cash,Yes,"{'BCH': ['Binance-Peg Bitcoin Cash', 'Bitcoin Cash']}"
+3,XRP,XRP,Yes,"{'XRP': ['Binance-Peg XRP', 'Heco-Peg XRP', 'XRP']}"
+4,DASH,Dash,Yes,{'DASH': ['Dash']}
+5,LTC,Litecoin,Yes,"{'LTC': ['Binance-Peg Litecoin', 'Litecoin']}"
+6,ETC,"Ethereum 
+Classic",Yes,{'ETC': ['Ethereum Classic']}
+7,API3,API3,Yes,{'API3': ['API3']}
+8,CRO,Cronos,Yes,"{'CRO': ['Cronos (Wormhole)', 'Cronos']}"
+9,IMX,Immutable X,Yes,"{'IMX': ['Immutable X', 'Impermax']}"
+10,ADA,Cardano,Yes,"{'ADA': ['Binance-Peg Cardano', 'Cardano']}"
+11,MIOTA,IOTA,Yes,{'MIOTA': ['IOTA']}
+12,XLM,Stellar,Yes,{'XLM': ['Stellar']}
+13,EOS,EOS,Yes,"{'EOS': ['Binance-Peg EOS', 'EOS']}"
+14,NEO,NEO,Yes,{'NEO': ['NEO']}
+15,TRX,TRON,Yes,"{'TRX': ['TRON', 'TRON (BSC)']}"
+16,ZEC,ZCASH,Yes,{'ZEC': ['Zcash']}
+17,XTZ,Tezos,Yes,{'XTZ': ['Tezos']}
+18,DOT,Polkadot,Yes,"{'DOT': ['Binance-Peg Polkadot', 'Polkadot']}"
+19,MKR,Maker,Yes,{'MKR': ['Maker']}
+20,COMP,Compound,Yes,"{'COMP': ['Compound Coin', 'Compound', 'Compound (Wormhole)']}"
+21,LINK,Chainlink,Yes,"{'LINK': ['Chainlink', 'Chainlink (Wormhole)']}"
+22,UNI,Uniswap,Yes,"{'UNI': ['UNICORN', 'Uniswap', 'Uniswap (Wormhole)', 'UNIVERSE Project']}"
+23,YFI,Yearn.finance,Yes,"{'YFI': ['yearn.finance', 'yearn.finance (Wormhole)']}"
+24,DOGE,Dogecoin,Yes,"{'DOGE': ['Binance-Peg Dogecoin', 'Dogecoin']}"
+25,AAVE,Aave,Yes,"{'AAVE': ['Aave', 'Aave (Wormhole)']}"
+26,FIL,Filecoin,Yes,"{'FIL': ['Binance-Peg Filecoin', 'Filecoin']}"
+27,ALGO,Algorand,Yes,{'ALGO': ['Algorand']}
+28,ATOM,Cosmos,Yes,{'ATOM': ['Cosmos Hub']}
+29,MANA,Decentraland,Yes,"{'MANA': ['Decentraland', 'Decentraland (Wormhole)', 'Genesis Mana']}"
+30,APE,ApeCoin,Yes,"{'APE': ['APE', 'ApeCoin', 'APEcoin Token', 'ApeLab', 'Harmon Ape']}"
+31,LRC,Loopring,Yes,"{'LRC': ['Laro', 'Loopring', 'LoopringCoin V2 (Wormhole)']}"
+32,ENJ,Enjin,Yes,"{'ENJ': ['Enjin Coin', 'Enjin (Wormhole)']}"
+33,BICO,Biconomy,Yes,{'BICO': ['Biconomy']}
+34,BAT,Basic Attention Token,Yes,"{'BAT': ['Basic Attention', 'Basic Attention Token (Wormhole)']}"
+35,BNT,Bancor,Yes,"{'BNT': ['Bancor Network', 'Bancor (Wormhole)']}"
+36,OGN,Origin Protocol,Yes,{'OGN': ['Origin Protocol']}
+37,MATIC,Polygon,Yes,{'MATIC': ['Polygon']}
+38,FLR,Spark,Yes,"{'1FLR': ['Flare'], 'FLRS': ['Flourish Coin']}"
+39,GALA,Gala,Yes,"{'GALA': ['Gala', 'Gala (Wormhole)']}"
+40,ALICE,My Neighbor Alice,Yes,"{'ALICE': ['My Neighbor Alice', 'My Neighbor Alice (Wormhole)']}"
+41,CHZ,Chiliz,Yes,"{'CHZ': ['Chiliz', 'Chiliz (Wormhole)']}"
+42,HBAR,Hedera Hashgraph,Yes,{'HBAR': ['Hedera']}
+43,DYDX,dYdX,Yes,"{'DYDX': ['dYdX', 'dYdX (Wormhole)']}"
+44,SOL,Solana,Yes,"{'SOL': ['Solana', 'SOL (Wormhole)', 'Wrapped Solana']}"
+45,THETA,Theta,Yes,{'THETA': ['Theta Network']}
+46,FTM,Fantom,Yes,"{'FTM': ['Fantom', 'Fitmin', 'FractionMeta']}"
+47,GRT,The Graph,Yes,"{'GRT': ['Golden Ratio Token', 'The Graph', 'The Graph (Wormhole)']}"
+48,1INCH,1inch,Yes,"{'1INCH': ['1inch', '1INCH (Wormhole)']}"
+49,CRV,Curve,Yes,"{'CRV': ['Curve DAO', 'Curve DAO Token (Wormhole)']}"
+50,ANKR,Ankr,Yes,"{'ANKR': ['Ankr', 'Ankr Network (Wormhole)']}"
+51,REN,REN,Yes,{'REN': ['REN']}
+52,SNX,Synthetix,Yes,"{'SNX': ['Synthetix Network', 'Synthetix Network Token (Wormhole)']}"
+53,STORJ,Storj,Yes,{'STORJ': ['Storj']}
+54,ZRX,0x,Yes,"{'ZRX': ['0x', '0x (Wormhole)']}"
+55,CELO,Celo,Yes,{'CELO': ['Celo']}
+56,SUSHI,SushiSwap,Yes,"{'SUSHI': ['Sushi', 'Sushi (Wormhole)']}"
+57,QNT,Quant,Yes,{'QNT': ['Quant']}
+58,BAL,Balancer,Yes,{'BAL': ['Balancer']}
+59,FET,Fetch.ai,Yes,{'FET': ['Fetch.ai']}
+60,SHIBXM,Shiba (in millions),No,{}
+61,AMP,Amp,Yes,"{'AMP': ['Amp', 'Amp (Wormhole)']}"
+62,AXS,Axie Infinity,Yes,{'AXS': ['Axie Infinity']}
+63,SAND,The Sandbox,Yes,"{'SAND': ['San Diego Coin', 'The Sandbox', 'The Sandbox (Wormhole)']}"
+64,AVAX,Avalanche,Yes,"{'AVAX': ['Avalanche', 'Avalanche (Wormhole)', 'Binance-Peg Avalanche']}"
+65,LUNA2,Terra 2.0 ,No,{}
+66,CTSI,Cartesi,Yes,{'CTSI': ['Cartesi']}
+67,ENS,Ethereum Name Service,Yes,"{'ENS': ['Ethereum Name Service', 'Ethereum Name Service (Wormhole)']}"
+68,UMA,Universal Market Access,Yes,{'UMA': ['UMA']}
+69,LUNC,Terra Classic ,Yes,"{'LUNC': ['Terra Classic (Wormhole)', 'Terra Luna Classic', 'Wrapped Terra Classic']}"
+70,FTT,FTX Token,Yes,"{'FTT': ['FTX', 'FTX (Wormhole)']}"
+71,SRM,Serum,Yes,{'SRM': ['Serum']}
+72,LPT,Livepeer,Yes,{'LPT': ['Livepeer']}
+73,KNC,Kyber Network,Yes,{'KNC': ['Kyber Network Crystal']}
