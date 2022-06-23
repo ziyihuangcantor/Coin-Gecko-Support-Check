@@ -64,11 +64,11 @@ AMP,Amp,Yes,"{'AMP': ['Amp', 'Amp (Wormhole)']}"
 AXS,Axie Infinity,Yes,{'AXS': ['Axie Infinity']}
 SAND,The Sandbox,Yes,"{'SAND': ['San Diego Coin', 'The Sandbox', 'The Sandbox (Wormhole)']}"
 AVAX,Avalanche,Yes,"{'AVAX': ['Avalanche', 'Avalanche (Wormhole)', 'Binance-Peg Avalanche']}"
-LUNA2,Terra 2.0 ,No,{}
+LUNA2,Terra 2.0,No,{}
 CTSI,Cartesi,Yes,{'CTSI': ['Cartesi']}
 ENS,Ethereum Name Service,Yes,"{'ENS': ['Ethereum Name Service', 'Ethereum Name Service (Wormhole)']}"
 UMA,Universal Market Access,Yes,{'UMA': ['UMA']}
-LUNC,Terra Classic ,Yes,"{'LUNC': ['Terra Classic (Wormhole)', 'Terra Luna Classic', 'Wrapped Terra Classic']}"
+LUNC,Terra Classic,Yes,"{'LUNC': ['Terra Classic (Wormhole)', 'Terra Luna Classic', 'Wrapped Terra Classic']}"
 FTT,FTX Token,Yes,"{'FTT': ['FTX', 'FTX (Wormhole)']}"
 SRM,Serum,Yes,{'SRM': ['Serum']}
 LPT,Livepeer,Yes,{'LPT': ['Livepeer']}
